@@ -130,7 +130,7 @@ This project helped in understanding the importance of open-source software and 
 
 ## 🔗 Submission
 
-* GitHub Repository Link: [Add your repo link here]
+* GitHub Repository Link: https://github.com/Kaushal1905/OSS-Audit-24BCE10364.git
 * Project Report: Submitted separately as PDF on VITyarthi portal
 
 ---
