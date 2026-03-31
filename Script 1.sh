@@ -5,7 +5,7 @@
 #Course:Open Source Software
 
 #variables(student/project information)
-STUDENT_NAME="Avinash Singh Thakur"
+STUDENT_NAME="Kaushal"
 SOFTWARE_CHOICE="Git"
 
 #system information
